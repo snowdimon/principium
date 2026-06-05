@@ -1,4 +1,4 @@
-# Principium
+# Первый принцип. Principium
 ### Начало. О мышлении за пределом жизни
 
 [![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-blue)](LICENSE)
